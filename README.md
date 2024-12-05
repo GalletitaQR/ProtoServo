@@ -123,13 +123,18 @@ https://vm.tiktok.com/ZMkdfe3bA/
 
 ![image](https://github.com/user-attachments/assets/73f4f94f-ff5e-41bd-b482-29a6b78026fa)
 
-
-# Examenes de NetaCad JavaScript
-
-
-
-![Captura de pantalla 2024-12-05 144102](https://github.com/user-attachments/assets/c9cf5603-7416-4dea-a7ab-10c292956e3c)
-![Captura de pantalla 2024-12-05 142100](https://github.com/user-attachments/assets/da97dfe2-6f6f-4f3c-b5d0-7ae2c5be00e9)
-![Captura de pantalla 2024-12-05 141307](https://github.com/user-attachments/assets/9678c711-3942-4f4e-bcf2-017dab6aa01d)
-![Captura de pantalla 2024-12-05 135028](https://github.com/user-attachments/assets/a918aa36-ec3f-48ce-bc07-9ccfb694760e)
-![Captura de pantalla 2024-12-05 132815](https://github.com/user-attachments/assets/b9d2e6e5-13eb-4884-86b1-a686ad705862)
+# Imágen de la captura de pantalla de los examenes de NetaCad JavaScript
+## Modulo 1
+![image](https://github.com/user-attachments/assets/17e38092-cd78-4c02-9c72-0af636d1b391)
+## Modulo 2
+![image](https://github.com/user-attachments/assets/9e587374-3795-444d-b4e2-cb6accb1806d)
+## Modulo 3
+![image](https://github.com/user-attachments/assets/08c66e44-fcb9-4e60-9942-c60b548424b9)
+## Modulo 4
+![image](https://github.com/user-attachments/assets/9b9a4e2f-791d-474d-bb63-b896126ab10d)
+## Modulo 5
+![image](https://github.com/user-attachments/assets/c820a8c6-3101-4afc-a779-e69797e52782)
+## Modulo 6
+![image](https://github.com/user-attachments/assets/27c6bfc7-8cf9-43a1-8039-ea6c9edd4905)
+## Exámen Final
+![image](https://github.com/user-attachments/assets/a94fd64e-2e4f-48c2-9471-73aeaf664e4c)
